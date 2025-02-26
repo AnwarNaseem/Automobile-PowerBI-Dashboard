@@ -1,0 +1,27 @@
+Automobile Dashboard Requirements 
+Feb, 2025 
+
+
+1) Generate a Bar chart to display avg of horsepower based on body-style of the car 
+2) Generate a Bar chart to display avg of peak rpm based on body style of the car  
+3) Generate a bar chart to display the top 3 cars by millage based on the manufacturer and highway mpg 
+4) Provide filters based on fuel-system 
+5) Provide filters based on body-style 
+6) Provide filters based on length (From and To) 
+7) Provide a visual to display the avg of stroke value (It should be filtered on all filters) 
+8) Calculate the sum of the price and display it in millions with a single decimal point 
+9) Provide filter based on Brand name (display it horizontally) 
+10) Generate gauge visual based on the average of peak-rpm, Max of peak rpm and target value peak rpm 
+
+Display manufacturer's logo at the top
+Display Car image at the bottom of the page 
+
+
+
+Use below colour codes (These represents our company brand)
+Red - #NV31202 
+Blue #N12239E 
+Shaded Red #POE6A731 
+Black #e252423 
+White - #RFFFFFF 
+Yellow #R098300 
