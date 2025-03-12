@@ -8,7 +8,9 @@ Feature Engineering: Categorized vehicles by brand, model, and type (hatchback, 
 **Workflow in Dashboard:**
 
 Data Processing: Ensured accurate and clean data representation.
+
 Visualization: Developed an interactive dashboard to analyze RPM trends, horsepower distribution, and performance comparisons.
+
 Filters & Controls: Enabled selection based on brand, fuel type, and price range for customized analysis.
 
 **Tools Used:**
