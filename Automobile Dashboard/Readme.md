@@ -1,27 +1,40 @@
-This project involved creating an interactive automobile dashboard to analyze and compare vehicle performance metrics across different brands and models.
+****Automobile Dashboard 🚗****
 
-**Process:**
+**Overview:**
 
-Data Cleaning & Transformation: Processed raw data to remove inconsistencies, handle duplicates, and standardize categorical variables.
-Feature Engineering: Categorized vehicles by brand, model, and type (hatchback, convertible, etc.) for better insights.
+This project involves creating an interactive Power BI dashboard to analyze and compare key vehicle performance metrics across multiple brands and models. The dashboard provides insights into RPM trends, horsepower distribution, and vehicle performance, allowing users to filter data based on brand, fuel type, and price range.
 
-**Workflow in Dashboard:**
+**Objective:**
 
-Data Processing: Ensured accurate and clean data representation.
+* To visualize and analyze vehicle performance data.
+* To compare horsepower and RPM trends for different vehicle types.
+* To enable filter-based analysis for better decision-making.
+  
+**Data Processing**
 
-Visualization: Developed an interactive dashboard to analyze RPM trends, horsepower distribution, and performance comparisons.
+**Data Cleaning:**
+   Handled missing values, removed duplicates, and standardized categorical variables.
+Feature Engineering: Categorized vehicles by brand, type (hatchback, convertible, etc.), and performance metrics.
 
-Filters & Controls: Enabled selection based on brand, fuel type, and price range for customized analysis.
+**Dashboard Features**
 
-**Tools Used:**
+✅ RPM (Revolutions Per Minute) Analysis – Average and peak RPM values.
+✅ Horsepower Comparison – Performance differences across vehicle types.
+✅ Brand & Model Filtering – Select from multiple car brands (Audi, BMW, Jaguar, etc.).
+✅ Fuel Type & Price Range Selection – Compare vehicles based on fuel efficiency and cost.
+✅ Intuitive Visuals & Insights – Interactive charts and graphs for easy analysis.
 
-Power BI – For data visualization & dashboard design
-DAX – For data calculations & transformations
+**Tools & Technologies Used:**
+
+**Power BI** – For data visualization and dashboard development.
+
+**Power Query** – For data transformation and cleaning.
+
+**DAX (Data Analysis Expressions)** – For advanced calculations and insights.
 
 **Outcome:**
+The Automobile Dashboard provides a comprehensive and interactive analysis of vehicle performance, helping car enthusiasts, analysts, and industry experts gain insights into different brands and models. It allows users to compare, filter, and analyze cars based on performance and pricing criteria.
 
-The dashboard provides an interactive and insightful view of vehicle performance across brands, helping automobile enthusiasts, analysts, and industry experts make data-driven decisions. It allows real-time filtering and comparative analysis for deeper insights.
-
-Auttomobile Output Dashboard:
+**Auttomobile Dashboard Preview:**
 
 ![My Dashboard Output](https://github.com/user-attachments/assets/4d3549a8-d66c-4133-a6fd-910948fd4075)
