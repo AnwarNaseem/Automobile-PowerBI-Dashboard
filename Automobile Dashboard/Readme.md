@@ -21,3 +21,6 @@ DAX – For data calculations & transformations
 **Outcome:**
 
 The dashboard provides an interactive and insightful view of vehicle performance across brands, helping automobile enthusiasts, analysts, and industry experts make data-driven decisions. It allows real-time filtering and comparative analysis for deeper insights.
+
+Auttomobile Output Dashboard:
+![My Dashboard Output](https://github.com/user-attachments/assets/4d3549a8-d66c-4133-a6fd-910948fd4075)
