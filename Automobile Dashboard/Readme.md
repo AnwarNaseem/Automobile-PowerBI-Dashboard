@@ -13,15 +13,20 @@ This project involves creating an interactive Power BI dashboard to analyze and 
 **Data Processing**
 
 **Data Cleaning:**
+
    Handled missing values, removed duplicates, and standardized categorical variables.
 Feature Engineering: Categorized vehicles by brand, type (hatchback, convertible, etc.), and performance metrics.
 
 **Dashboard Features**
 
 ✅ RPM (Revolutions Per Minute) Analysis – Average and peak RPM values.
+
 ✅ Horsepower Comparison – Performance differences across vehicle types.
+
 ✅ Brand & Model Filtering – Select from multiple car brands (Audi, BMW, Jaguar, etc.).
+
 ✅ Fuel Type & Price Range Selection – Compare vehicles based on fuel efficiency and cost.
+
 ✅ Intuitive Visuals & Insights – Interactive charts and graphs for easy analysis.
 
 **Tools & Technologies Used:**
